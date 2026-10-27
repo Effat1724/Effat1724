@@ -12,7 +12,7 @@
 
 **Databases / Query Languages:** SQL
 
-### Core Computer Science
+### Completed Computer Science Course 
 
 - Data Structures and Algorithms
 - Object-Oriented Programming
