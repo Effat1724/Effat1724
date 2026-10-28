@@ -62,6 +62,7 @@
 - Vscode&#x20;
 - R&#x20;
 - Libreoffice&#x20;
+- Arduino IDE
 
 ### Areas of Interest
 
